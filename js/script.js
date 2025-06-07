@@ -12,6 +12,7 @@ import "aos/dist/aos.css";
 AOS.init({
     duration: 1000,
     offset: 100,
+    once: false,
 });
 
 // the additional code you saw in the video will not be needed :)
