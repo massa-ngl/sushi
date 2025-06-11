@@ -1,8 +1,8 @@
-import check from "../assets/check.svg";
-import star from "../assets/star.svg"; 
-import sushi12 from "../assets/sushi-12.png";
-import sushi11 from "../assets/sushi-11.png";
-import sushi10 from "../assets/sushi-10.png";
+import check from "../public/assets/check.svg";
+import star from "../public/assets/star.svg"; 
+import sushi12 from "../public/assets/sushi-12.png";
+import sushi11 from "../public/assets/sushi-11.png";
+import sushi10 from "../public/assets/sushi-10.png";
 
 
 import AOS from "aos";

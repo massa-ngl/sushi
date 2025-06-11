@@ -70,11 +70,11 @@
 }
 
 .trending-sushi .trending__image {
-  background-image: url("../../assets/japanese_sushi.png");
+  background-image: url("../../public/assets/japanese_sushi.png");
 }
 
 .trending-drinks .trending__image {
-  background-image: url("../../assets/japanese_drinks.png");
+  background-image: url("../../public/assets/japanese_drinks.png");
 }
 
 .trending__image img {
