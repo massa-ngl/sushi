@@ -116,6 +116,7 @@ a {
 @media screen and (max-width: 1024px) {
   .about-us {
     flex-direction: column;
+    text-align: center;
   }
 
   .about-us__image {
@@ -246,6 +247,7 @@ a {
 @media screen and (max-width: 550px) {
   .popular-foods {
     padding: 64px 32px;
+    text-align: center;
   }
 
   .popular-foods__card,
@@ -259,6 +261,7 @@ a {
 @media screen and (max-width: 550px) {
   .subscription {
     padding: 64px 32px;
+    text-align: center;
   }
 
   .subscription h2 {
@@ -297,7 +300,7 @@ a {
     flex-direction: column;
   }
 
-  .trending-drink {
+  .trending-drinks {
     flex-direction: column-reverse;
   }
 
@@ -326,3 +329,21 @@ a {
   }
 }
 /* END: trending media queries */
+
+/* START: footer media quieries */
+@media screen and (max-width: 550px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.4;
+  }
+
+  .footer__nav {
+    padding: -30px;
+  }
+
+  .footer__social {
+    margin-top: 1rem;
+  }
+}
+/* END: footer media queries */
