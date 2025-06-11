@@ -8,12 +8,12 @@ Sushiman is a clean, lightweight, and visually engaging front-end web project de
 ---
 
 ### 🚀 Built With  
-- ⚡️ [Vite](https://vitejs.dev/) — Lightning-fast front-end tooling  
-- 🎯 HTML5 — For clean, semantic structure  
-- 🎨 CSS3 — Custom styling with modular organization  
-- 🧠 JavaScript (Vanilla) — For interactivity and DOM logic  
-- 🎢 [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/) — Smooth scroll-based animations  
-- 📐 BEM Methodology — For maintainable and scalable CSS
+- [Vite](https://vitejs.dev/) — Lightning-fast front-end tooling  
+- HTML5 — For clean, semantic structure  
+- CSS3 — Custom styling with modular organization  
+- JavaScript  
+- [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/) — Smooth scroll-based animations  
+- BEM Methodology — For maintainable and scalable CSS
 
 ---
 
